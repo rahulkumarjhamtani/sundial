@@ -4,8 +4,8 @@ body
 }
 .container
 {
-    height:40vw;
-    width:40vw;
+    height:250px;
+    width:250px;
     position:relative;
     background:url("clock.png") no-repeat;
     background-size: 100%;
